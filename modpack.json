@@ -1,0 +1,33 @@
+{
+  "name": "Isha Reforged",
+  "version": "1.0.0",
+  "authors": [ "ViceRabbit", "NetheriteWails" ],
+  "mods": [
+    {
+      "name": "Alex's Mobs", "version": "1.18.5",
+      "p_id": "426558",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/3829342/file",
+      "server": true, "client": true, "optional": false
+    }, {      
+      "name": "Biomes O' Plenty", "version": "16.0.0.109",
+      "p_id": "220318",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/3759236/file",
+      "server": true, "client": true, "optional": false
+    }, {           
+      "name": "GraveStone Mod", "version": "1.0.1",
+      "p_id": "238551",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/download/3694403/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Neat", "version": "1.8-30",
+      "p_id": "238372",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/neat/download/3593906/file",
+      "server": false, "client": true, "optional": false
+    }, {                
+      "name": "Xaero's Minimap", "version": "22.9.3",
+      "p_id": "263420",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3835773/file",
+      "server": true, "client": true, "optional": false
+    }
+  ]
+}    
