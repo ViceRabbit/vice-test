@@ -8,6 +8,11 @@
       "p_id": "426558",
       "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/3829342/file",
       "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Artifacts", "version": "4.0.7",
+      "p_id": "312353",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts/download/3736897/file",
+      "server": true, "client": true, "optional": false  
     }, {      
       "name": "Biomes O' Plenty", "version": "16.0.0.109",
       "p_id": "220318",
