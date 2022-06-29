@@ -13,11 +13,6 @@
       "p_id": "220318",
       "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/3759236/file",
       "server": true, "client": true, "optional": false
-    }, {           
-      "name": "GraveStone Mod", "version": "1.0.1",
-      "p_id": "238551",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod/download/3694403/file",
-      "server": true, "client": true, "optional": false
     }, {            
       "name": "Neat", "version": "1.8-30",
       "p_id": "238372",
