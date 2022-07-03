@@ -3,30 +3,10 @@
   "version": "1.0.0",
   "authors": [ "ViceRabbit", "NetheriteWails" ],
   "mods": [
-    {
-      "name": "Alex's Mobs", "version": "1.18.5",
-      "p_id": "426558",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/files/3853078/file",
-      "server": true, "client": true, "optional": false
-    }, { 
-      "name": "AppleSkin", "version": "2.4.0",
-      "p_id": "248787",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/3686482/file",
-      "server": true, "client": true, "optional": false
-    }, {      
+    {     
       "name": "Art of Forging: A Tetra Addon", "version": "1.4.6",
       "p_id": "596955",
       "url": "https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon/download/3845250/file",
-      "server": true, "client": true, "optional": false
-    }, {            
-      "name": "Artifacts", "version": "4.0.7",
-      "p_id": "312353",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts/download/3736897/file",
-      "server": true, "client": true, "optional": false
-    }, {            
-      "name": "AutoRegLib", "version": "1.7-53",
-      "p_id": "250363",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/3642382/file",
       "server": true, "client": true, "optional": false
     }
   ]
