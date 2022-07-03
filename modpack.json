@@ -4,14 +4,29 @@
   "authors": [ "ViceRabbit", "NetheriteWails" ],
   "mods": [
     {
-      "name": "Alex's Mobs", "version": "1.18.5",
-      "p_id": "426558",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs/download/3829342/file",
+      "name": "AmbientSounds 5", "version": "5.0.16",
+      "p_id": "254284",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/ambientsounds/download/3738299/file",
+      "server": false, "client": true, "optional": false
+    }, { 
+      "name": "AppleSkin", "version": "2.4.0",
+      "p_id": "248787",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/appleskin/download/3686482/file",
       "server": true, "client": true, "optional": false
-    }, {                
-      "name": "Xaero's Minimap", "version": "22.9.3",
-      "p_id": "263420",
-      "url": "https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/download/3835773/file",
+    }, {      
+      "name": "Art of Forging: A Tetra Addon", "version": "1.4.6",
+      "p_id": "596955",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/art-of-forging-a-tetra-addon/download/3845250/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "Artifacts", "version": "4.0.7",
+      "p_id": "312353",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/artifacts/download/3736897/file",
+      "server": true, "client": true, "optional": false
+    }, {            
+      "name": "AutoRegLib", "version": "1.7-53",
+      "p_id": "250363",
+      "url": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/3642382/file",
       "server": true, "client": true, "optional": false
     }
   ]
